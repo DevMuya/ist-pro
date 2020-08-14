@@ -1,0 +1,15 @@
+{
+  "name": "ist_pro",
+  "version": "1.0.0",
+  "description": "a clone of ist students portal with node js",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016\u0016\u0016\u0016\u0016\u0016\u0016\u0016\u0016\u0016https://github.com/DevMuya/ist-pro.git"
+  },
+  "author": "Devmuya.com",
+  "license": "ISC"
+}
